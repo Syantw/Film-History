@@ -86,7 +86,7 @@ body {
     align-items: center;
     animation: fadeIn 0.5s ease;
   }
-  /* 英雄部分 */
+ 
   .hero-image {
     background: linear-gradient(
         to right,
